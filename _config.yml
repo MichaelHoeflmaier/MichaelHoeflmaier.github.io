@@ -13,4 +13,4 @@ lang: de                    # html lang en
 open: true                  # open or close your site
 date_format: "%d-%m-%Y"     # date format
 google_analytics:           # your google analytics
-theme_color: "#f21d1d"      # your favorite theme color
+theme_color: "#f26f1d"      # your favorite theme color
