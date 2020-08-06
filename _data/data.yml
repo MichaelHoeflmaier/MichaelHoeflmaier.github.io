@@ -49,7 +49,7 @@ interests:
     - item: Nähen
       link:
 profile:
-  display: false
+  display: true
   title: Vorstellung
   details: |
     Hallo, mein Name ist Michael Höflmaier. Ich bin ein Master-Student an der Fachhochschule Salzburg und werde mein Studium im Herbst 2020 abschließen. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
