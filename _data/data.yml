@@ -52,7 +52,9 @@ profile:
   display: true
   title: Vorstellung
   details: |
-    Hallo, mein Name ist Michael Höflmaier. Ich bin ein Master-Student an der Fachhochschule Salzburg und werde mein Studium im Herbst 2020 abschließen. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
+    Hallo,
+    mein Name ist Michael Höflmaier.
+    Ich bin ein Master-Student an der Fachhochschule Salzburg und werde mein Studium im Herbst 2020 abschließen. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
   title: Ausbildung
@@ -67,6 +69,7 @@ education:
         + Signal Processing
         
         Voraussichtlicher Abschluss des Studiums im Oktober 2020
+         
       
     - university: FH Kärnten, Campus Klagenfurt
       time: 2015 - 2018
@@ -76,13 +79,14 @@ education:
         Studienschwerpunkte:
         + Mobile Systeme
         + Digitale Signalverarbeitung
+         
     
     - university: HLWM Salzburg – Annahof, Salzburg
       time: 2009 - 2014
       major: Medieninformatik, Kommunikation & Präsentation, Ausbildung Koch/Kellner
       degree: Matura
       details: |
-
+       
         
 experiences:
   display: true
@@ -98,6 +102,7 @@ experiences:
         + YANG
         + NETCONF
         + Webapps
+         
         
     - role: Zivildiener
       time: 09.2014 - 05.2015
@@ -110,6 +115,7 @@ experiences:
         + Fahrdienst
         + Büroarbeiten
         + Hilfsdienste bei der Behindertenbetreuung
+         
         
     - role: Praktikant
       time: 06.2012 - 08.2012
@@ -118,24 +124,22 @@ experiences:
       location: Elixhausen
       details: |
        Mitarbeit im Service
+         
 
 projects:
-  display: false
-  title: Projects
+  display: true
+  title: Weiterbildung & Projekte
   intro: |
-    This is all the projects I'm involved in.
+    Projekte & Weiterbildungsmaßnahmen die ich durchlaufen habe.
 
   items:
-    - name: Foo
+    - name: Masterthesis - Programmierbarkeit der Data-Plane mittels P4
       link: https://www.google.com
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
+        Kurzbeschreibung:
+        In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren.
+        Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
+        
 publications:
   display: false
   title: Publications
