@@ -63,8 +63,8 @@ education:
       degree:
       details: |
         Studienschwerpunkte:
-        +Computer Networks & IT Security
-        +Signal Processing
+        + Computer Networks & IT Security
+        + Signal Processing
         
         Voraussichtlicher Abschluss des Studiums im Oktober 2020
       
@@ -74,8 +74,8 @@ education:
       degree: B.Sc.
       details: |
         Studienschwerpunkte:
-        +Mobile Systeme
-        +Digitale Signalverarbeitung
+        + Mobile Systeme
+        + Digitale Signalverarbeitung
     
     - university: HLWM Salzburg – Annahof, Salzburg
       time: 2009 - 2014
@@ -95,9 +95,9 @@ experiences:
       location: Salzburg
       details: |
         Praktikumstätigkeit zu den Themen:
-        +YANG
-        +NETCONF
-        +Webapps
+        + YANG
+        + NETCONF
+        + Webapps
         
     - role: Zivildiener
       time: 09.2014 - 05.2015
@@ -106,10 +106,10 @@ experiences:
       location: Salzburg
       details: |
         Tätigkeiten:
-        +Rettungssanitäter
-        +Fahrdienst
-        +Büroarbeiten
-        +Hilfsdienste bei der Behindertenbetreuung
+        + Rettungssanitäter
+        + Fahrdienst
+        + Büroarbeiten
+        + Hilfsdienste bei der Behindertenbetreuung
         
     - role: Praktikant
       time: 06.2012 - 08.2012
