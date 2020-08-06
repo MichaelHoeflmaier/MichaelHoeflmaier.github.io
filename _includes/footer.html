@@ -3,7 +3,7 @@
 <footer class="footer">
     <div class="text-center">
         {% assign date_format = site.date_format | default: "%-d %b, %Y" %}
-        <small class="copyright">Updated: {{ site.time | date: date_format }} <span class="fa fa-heart"></span> By Michael Höflmaier</small>
+        <small class="copyright">Updated on {{ site.time | date: date_format }} by Michael Höflmaier</small>
     </div>
 </footer>
 {% endif %}
