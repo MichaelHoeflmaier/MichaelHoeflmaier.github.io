@@ -66,6 +66,8 @@ education:
       time: 2009 - 2014
       major: Ausbildungsschwerpunkt: Medieninformatik, Kommunikation & Prsentation, Ausbildung Koch /Kellner
       degree: Matura
+      details: |
+      
     - university: Example University
       time: 2011 - 2015
       major: Computer Science
