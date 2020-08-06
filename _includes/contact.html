@@ -86,5 +86,12 @@
             target="_blank">{{ contact.goodreads }}</a>
     </li>
     {% endif %}
+	
+	{% if contact.xing %}
+		<li class="goodreads"><i class="fab fa-goodreads"></i>
+			<a href="https://www.xing.com/profile/{{ contact.xing }}"
+				target="_blank">{{ contact.xing }}</a>
+		</li>
+    {% endif %}
 
 </ul>

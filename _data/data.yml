@@ -1,25 +1,26 @@
 intro:
-  name: Foo Bar
-  title: Backend Developer
+  name: Michael Höflmaier
+  title: Master-Student
   avatar:
     display: true
-    path: profile.png
+    path: Foto.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: michaelhoeflmaier@gmx.at
+  phone: +43 664 228 12 16
   whatsapp:
   telegram:
-  website: example.com
+  website:
   medium:
-  linkedin:
-  github: github
+  linkedin: michael-höflmaier-93a6181b4
+  github: MichaelHoe
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
+  xing: Michael_Hoeflmaier2/cv
 
 languages:
   display: true
