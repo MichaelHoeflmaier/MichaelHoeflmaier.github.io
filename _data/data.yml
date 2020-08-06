@@ -153,7 +153,7 @@ publications:
       link:
 
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
     Here is my skills:
