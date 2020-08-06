@@ -130,15 +130,15 @@ projects:
   display: true
   title: Weiterbildung & Projekte
   intro: |
-    Projekte & Weiterbildungsmaßnahmen die ich durchlaufen habe.
+    
 
   items:
     - name: Masterthesis - Programmierbarkeit der Data-Plane mittels P4
       link:
       details: |
         Kurzbeschreibung:
-        In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren.
-        Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
+           In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren.
+           Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
       
     - name: R&D Project - Network monitoring in a remote control system for semi-autonomous driving
       link:
@@ -146,9 +146,9 @@ projects:
         Forschungspartner: Salzburg Research
         
         Kurzbeschreibung:
-        Bau und Programmierung eines semi-autonomen Fahrzeugs, das auch durch einen entfernt situierten Operator steuerbar ist.
-        Zu Überwachungszwecken erfolgt eine drahtlose Übertragung mehrere Audio- und Videokanäle an den Operator.
-        Dieser kann eine Auswertung mehrerer Metriken des genutzten Übertragungskanals zurückgreifen.
+           Bau und Programmierung eines semi-autonomen Fahrzeugs, das auch durch einen entfernt situierten Operator steuerbar ist.
+           Zu Überwachungszwecken erfolgt eine drahtlose Übertragung mehrere Audio- und Videokanäle an den Operator.
+           Dieser kann eine Auswertung mehrerer Metriken des genutzten Übertragungskanals zurückgreifen.
      
     - name: Bachelorthesis 2 - Cisco Digital Network Architecture und deren Programmierschnittstellen
       link:
@@ -156,19 +156,19 @@ projects:
         Forschungspartner: Kapsch BusinessCom AG
         
         Kurzbeschreibung:
-        DynamicConfigurationWizard: Webinterface, das die Struktur von YANG-Dateien ausnutzt, um das Zielgerät über eine API zu konfigurieren.
-        MacCurator: Webinterface, das es ermöglicht MAC-Adressen über eine API an eine Cisco ISE zu übergeben und aus dieser zu entfernen. Ermöglicht die Authentifizierung von Geräten die IEEE 802.1X nicht unterstützen. 
+           DynamicConfigurationWizard: Webinterface, das die Struktur von YANG-Dateien ausnutzt, um das Zielgerät über eine API zu konfigurieren.
+           MacCurator: Webinterface, das es ermöglicht MAC-Adressen über eine API an eine Cisco ISE zu übergeben und aus dieser zu entfernen. Ermöglicht die Authentifizierung von Geräten die IEEE 802.1X nicht unterstützen. 
 
     - name: Bachelorthesis 1 - Java-TemplateGenerator und Jaspersoft aus einer XML-Perspektive
       link:
       details: |        
         Kurzbeschreibung:
-        Ein in Java geschriebenes Programm, um XML-Templates für das Reporting-Tool Jaspersoft zu erstellen.
+           Ein in Java geschriebenes Programm, um XML-Templates für das Reporting-Tool Jaspersoft zu erstellen.
         
     - name: Weiterbildung zum Rettungssanitäter
       link:
       details: |        
-        Arbeiter-Samariterbund, Salzburg
+        
 
 publications:
   display: false
