@@ -20,28 +20,36 @@ contact:
   stackoverflow:
   quora:
   goodreads:
-  xing: Michael_Hoeflmaier2/cv
+  xing: Xing
 
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-
+    - idiom: Deutsch
+      level: Muttersprache
+    - idiom: Englisch
+      level: Sehr gut
+    - idiom: Französisch
+      level: Grundkenntnisse
 interests:
   display: true
-  title: Interests
+  title: Interessen
   items:
-    - item: Reading
+    - item: Radfahren
+      link: 
+    - item: Badminton
       link:
-    - item: Cooking
+    - item: Informationstechnologie (Virtualisierung, Netzwerktechnik, Containerisierung)
       link:
-
+    - item: Kochen
+      link:
+    - item: Geschichte
+      link:
+    - item: Nähen
+      link:
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
@@ -52,19 +60,12 @@ profile:
 
 education:
   display: true
-  title: Education
+  title: Ausbildung
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
+    - university: HLWM Salzburg – Annahof, Salzburg
+      time: 2009 - 2014
+      major: Ausbildungsschwerpunkt: Medieninformatik, Kommunikation & Präsentation, Ausbildung Koch /Kellner
+      degree: Matura
     - university: Example University
       time: 2011 - 2015
       major: Computer Science
