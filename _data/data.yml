@@ -49,7 +49,7 @@ interests:
     - item: Nähen
       link:
 profile:
-  display: true
+  display: false
   title: Vorstellung
   details: |
     Hallo,
@@ -157,13 +157,17 @@ projects:
         
         Kurzbeschreibung:
            DynamicConfigurationWizard: Webinterface, das die Struktur von YANG-Dateien ausnutzt, um das Zielgerät über eine API zu konfigurieren.
-           MacCurator: Webinterface, das es ermöglicht MAC-Adressen über eine API an eine Cisco ISE zu übergeben und aus dieser zu entfernen. Ermöglicht die Authentifizierung von Geräten die IEEE 802.1X nicht unterstützen. 
+           MacCurator: Webinterface, das es ermöglicht MAC-Adressen über eine API an eine Cisco ISE zu übergeben und aus dieser zu entfernen. Ermöglicht die Authentifizierung von Geräten die IEEE 802.1X nicht unterstützen.
 
+        [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/raw/master/Arbeiten/Bac2_Hoeflmaier_Michael.pdf)
+    
     - name: Bachelorthesis 1 - Java-TemplateGenerator und Jaspersoft aus einer XML-Perspektive
       link:
       details: |        
         Kurzbeschreibung:
            Ein in Java geschriebenes Programm, um XML-Templates für das Reporting-Tool Jaspersoft zu erstellen.
+        
+        [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/raw/master/Arbeiten/Bac1_Hoeflmaier_Michael.pdf)
         
     - name: Weiterbildung zum Rettungssanitäter
       link:
