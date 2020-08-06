@@ -2,7 +2,7 @@
 {% if footer and footer.display %}
 <footer class="footer">
     <div class="text-center">
-        {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+        {% assign date_format = site.date_format | default: "%-d %b, %Y" %}
         <small class="copyright">Updated: {{ site.time | date: date_format }} <span class="fa fa-heart"></span> By Michael Höflmaier</small>
     </div>
 </footer>
