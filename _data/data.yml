@@ -137,8 +137,7 @@ projects:
       link:
       details: |
         Kurzbeschreibung:
-           In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren.
-           Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
+           In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren. Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
       
     - name: R&D Project - Network monitoring in a remote control system for semi-autonomous driving
       link:
@@ -146,9 +145,7 @@ projects:
         Forschungspartner: Salzburg Research
         
         Kurzbeschreibung:
-           Bau und Programmierung eines semi-autonomen Fahrzeugs, das auch durch einen entfernt situierten Operator steuerbar ist.
-           Zu Überwachungszwecken erfolgt eine drahtlose Übertragung mehrere Audio- und Videokanäle an den Operator.
-           Dieser kann eine Auswertung mehrerer Metriken des genutzten Übertragungskanals zurückgreifen.
+           Bau und Programmierung eines semi-autonomen Fahrzeugs, das auch durch einen entfernt situierten Operator steuerbar ist. Zu Überwachungszwecken erfolgt eine drahtlose Übertragung mehrere Audio- und Videokanäle an den Operator. Dieser kann eine Auswertung mehrerer Metriken des genutzten Übertragungskanals zurückgreifen.
      
     - name: Bachelorthesis 2 - Cisco Digital Network Architecture und deren Programmierschnittstellen
       link:
@@ -193,13 +190,36 @@ publications:
 
 skills:
   display: true
-  title: Skills
+  title: Kenntnisse
   details: |
-    Here is my skills:
-    + First
-    + Second
+    Führerschein:
+    + B
+    
+    Fremdsprachkenntnisse:
+    + Englisch - Sehr gut
+    + Französisch - Grundkenntnisse
+    
+    Programmiersprachen:
+    + C++, Java, Python, P4 - Gut
+    
+    EDV-Programme:
+    + MS Office - Gut
+    + Adobe Creative Cloud - Grundkenntnisse
+    + LaTex-Softwarepaket - Gut
+    + MATLAB - Sehr gut
+    + LabVIEW - Grundkenntnisse
+    
+    Auszeichnungssprachen:
+    + HTML - Gut
+    
+    Skriptsprachen:
+    + JavaScript, PHP - Gut
+    
+    4GL:
+    + SQL - Gut
 
-    ...
+    Cisco-Systeme:
+    + IOS - Gut
 
 evaluation:
   display: false
