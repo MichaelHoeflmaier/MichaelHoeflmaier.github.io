@@ -13,7 +13,7 @@ contact:
   website:
   medium:
   linkedin: Linkedin
-  github: MichaelHoe
+  github: MichaelHoeflmaier
   gitlab:
   bitbucket:
   twitter:
@@ -50,14 +50,9 @@ interests:
       link:
 profile:
   display: false
-  title: Profile
+  title: Vorstellung
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
-
+    Hallo, mein Name ist Michael Höflmaier. Ich bin ein Master-Student an der Fachhochschule Salzburg und werde mein Studium im Herbst 2020 abschließen. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
   title: Ausbildung
@@ -68,10 +63,10 @@ education:
       degree: Matura
       details: |
       
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+    - university: FH Kärnten, Campus Klagenfurt
+      time: 2015 - 2018
+      major: Netzwerk- und Kommunikationstechnik (Bachelor)
+      degree: B.Sc.
       details: |
         Experience in this university:
         + First
