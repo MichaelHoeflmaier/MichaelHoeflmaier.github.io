@@ -57,53 +57,70 @@ education:
   display: true
   title: Ausbildung
   items:
-    - university: HLWM Salzburg – Annahof, Salzburg
-      time: 2009 - 2014
-      major: Medieninformatik, Kommunikation & Präsentation, Ausbildung Koch/Kellner
-      degree: Matura
+    - university: FH Salzburg, Campus Urstein
+      time: 2018 - 2020
+      major: Informationstechnik und System-Management (Master)
+      degree:
       details: |
+        Studienschwerpunkte:
+        +Computer Networks & IT Security
+        +Signal Processing
+        
+        Voraussichtlicher Abschluss des Studiums im Oktober 2020
       
     - university: FH Kärnten, Campus Klagenfurt
       time: 2015 - 2018
       major: Netzwerk- und Kommunikationstechnik (Bachelor)
       degree: B.Sc.
       details: |
-        Experience in this university:
-        + First
-        + Second
+        Studienschwerpunkte:
+        +Mobile Systeme
+        +Digitale Signalverarbeitung
+    
+    - university: HLWM Salzburg – Annahof, Salzburg
+      time: 2009 - 2014
+      major: Medieninformatik, Kommunikation & Präsentation, Ausbildung Koch/Kellner
+      degree: Matura
+      details: |
 
-        ...
-
+        
 experiences:
   display: true
-  title: Experiences
+  title: Berufserfahrung
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Praktikant
+      time: 02.2018 - 05.2018
+      company: Kapsch BusinessCom AG
+      tag: Vollzeit
+      location: Salzburg
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        Praktikumstätigkeit zu den Themen:
+        +YANG
+        +NETCONF
+        +Webapps
+        
+    - role: Zivildiener
+      time: 09.2014 - 05.2015
+      company: Arbeiter-Samariterbund
+      tag: Vollzeit
+      location: Salzburg
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        Tätigkeiten:
+        +Rettungssanitäter
+        +Fahrdienst
+        +Büroarbeiten
+        +Hilfsdienste bei der Behindertenbetreuung
+        
+    - role: Praktikant
+      time: 06.2012 - 08.2012
+      company: Romantik Hotel Gmachl Elixhausen GmbH & CoKG
+      tag: Vollzeit
+      location: Elixhausen
+      details: |
+       Mitarbeit im Service
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -120,7 +137,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -136,7 +153,7 @@ publications:
       link:
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -146,7 +163,7 @@ skills:
     ...
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
