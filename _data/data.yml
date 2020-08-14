@@ -115,6 +115,7 @@ experiences:
         + Fahrdienst
         + Büroarbeiten
         + Hilfsdienste bei der Behindertenbetreuung
+        + Ausgangsbasis für weiteres ehrenamtliches Engagement
          
         
     - role: Praktikant
@@ -215,8 +216,9 @@ skills:
     Skriptsprachen:
     + JavaScript, PHP - Gut
     
-    4GL:
+    Datenbanksysteme:
     + SQL - Gut
+    + NoSQL - Grundkenntnisse
 
     Cisco-Systeme:
     + IOS - Gut
