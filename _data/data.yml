@@ -1,12 +1,12 @@
 intro:
-  name: Michael Höflmaier
-  title: Master-Student
+  name: DI Michael Höflmaier, BSc
+  title: Master-Absolvent
   avatar:
     display: true
     path: Foto.png
 
 contact:
-  email: michaelhoeflmaier@gmx.at
+  email: michael@hoeflmaier.eu
   phone: +43 664 228 12 16
   whatsapp:
   telegram:
@@ -60,7 +60,7 @@ education:
   title: Ausbildung
   items:
     - university: FH Salzburg, Campus Urstein
-      time: 2018 - vrs. 2020
+      time: 2018 - 2020
       major: Informationstechnik und System-Management (Master)
       degree:
       details: |
@@ -68,8 +68,6 @@ education:
         + Computer Networks & IT Security
         + Signal Processing
         
-        Voraussichtlicher Abschluss des Studiums im Oktober 2020
-         
       
     - university: FH Kärnten, Campus Klagenfurt
       time: 2015 - 2018
@@ -139,7 +137,9 @@ projects:
       details: |
         Details:
            In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren. Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
-      
+    
+        [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/blob/master/Arbeiten/Master_Hoeflmaier_Michael.pdf)
+    
     - name: R&D Project - Network monitoring in a remote control system for semi-autonomous driving
       link:
       details: |
