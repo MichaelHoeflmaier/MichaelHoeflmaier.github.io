@@ -90,6 +90,19 @@ experiences:
   display: true
   title: Berufserfahrung
   items:
+  - role: System Engineer
+      time: 12.2021 - ongoing
+      company: K-BusinessCom
+      tag: Vollzeit
+      location: Salzburg
+      details: |
+        Tätigkeit zu den Themen:
+        + Switching & Routing (Aruba)
+        + NAC (Aruba/Macmon)
+        + WLAN (Aruba)
+        + Netzwerkautomatisierung
+        + ...
+  
     - role: Praktikant
       time: 02.2018 - 05.2018
       company: Kapsch BusinessCom AG
