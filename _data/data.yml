@@ -54,8 +54,8 @@ profile:
   details: >
     Hallo,
 
-    mein Name ist Michael Höflmaier.</p>
-    Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden.</p>
+    mein Name ist Michael Höflmaier.
+    Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden.
     Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
@@ -225,7 +225,7 @@ skills:
     + macmon NAC Appliance - Sehr gut
 
     Aruba-Systeme:
-    + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.) - Seeeehr gut
+    + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.) - Seeeehr gut :)
 
     Cisco-Systeme:
     + IOS - Gut
