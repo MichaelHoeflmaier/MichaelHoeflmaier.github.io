@@ -54,9 +54,9 @@ profile:
   details: >
     Hallo,
 
-    mein Name ist Michael Höflmaier.
-
-    Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
+    mein Name ist Michael Höflmaier.</p>
+    Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden.</p>
+    Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
   title: Ausbildung
@@ -89,7 +89,7 @@ experiences:
   items:
     - role: System Engineer
       time: 12.2020 - ongoing
-      company: CANCOM Austria vormls K-BusinessCom vormals Kapsch BusinessCom
+      company: CANCOM Austria aka K-BusinessCom aka Kapsch BusinessCom
       tag: Vollzeit
       location: Salzburg
       details: |
@@ -222,10 +222,10 @@ skills:
     + NoSQL - Grundkenntnisse
 
     macmon:
-    + macmon NAC Appliance
+    + macmon NAC Appliance - Sehr gut
 
     Aruba-Systeme:
-    + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.)
+    + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.) - Seeeehr gut
 
     Cisco-Systeme:
     + IOS - Gut
