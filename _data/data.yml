@@ -36,7 +36,7 @@ interests:
   display: true
   title: Interessen
   items:
-    - item: Radfahren
+    - item: Radln
       link: 
     - item: Badminton
       link:
@@ -90,8 +90,8 @@ experiences:
   display: true
   title: Berufserfahrung
   items:
-  - role: System Engineer
-      time: seit 12.2020
+    - role: System Engineer
+      time: 12.2020 - ongoing
       company: CANCOM Austria vormls K-BusinessCom vormals Kapsch BusinessCom
       tag: Vollzeit
       location: Salzburg
@@ -113,7 +113,6 @@ experiences:
         + YANG
         + NETCONF
         + Webapps
-         
         
     - role: Zivildiener
       time: 09.2014 - 05.2015
@@ -232,15 +231,17 @@ skills:
     Datenbanksysteme:
     + SQL - Gut
     + NoSQL - Grundkenntnisse
+    
+    macmon:
+    + macmon NAC Appliance
+    
+    Aruba-Systeme:
+    + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.)
 
     Cisco-Systeme:
     + IOS - Gut
 	
-	Aruba-Ökosystem:
-	+ Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.)
-	
-	macmon:
-	+ macmon NAC Appliance
+
 
 evaluation:
   display: false
