@@ -1,27 +1,26 @@
+---
 intro:
   name: DI Michael Höflmaier, BSc
   title: Master-Absolvent
   avatar:
     display: true
     path: Foto.png
-
 contact:
   email: michael@hoeflmaier.eu
-  phone:
-  whatsapp:
-  telegram:
-  website:
-  medium:
+  phone: null
+  whatsapp: null
+  telegram: null
+  website: null
+  medium: null
   linkedin: Linkedin
   github: MichaelHoeflmaier
-  gitlab:
-  bitbucket:
-  twitter:
-  stackoverflow:
-  quora:
-  goodreads:
+  gitlab: null
+  bitbucket: null
+  twitter: null
+  stackoverflow: null
+  quora: null
+  goodreads: null
   xing: Xing
-
 languages:
   display: true
   title: Sprachen
@@ -37,23 +36,26 @@ interests:
   title: Interessen
   items:
     - item: Radln
-      link: 
+      link: null
     - item: Badminton
-      link:
-    - item: Informationstechnologie (Virtualisierung, Netzwerktechnik, Containerisierung)
-      link:
+      link: null
+    - item: Informationstechnologie (Virtualisierung, Netzwerktechnik,
+        Containerisierung)
+      link: null
     - item: Kochen
-      link:
+      link: null
     - item: Geschichte
-      link:
+      link: null
     - item: Nähen
-      link:
+      link: null
 profile:
   display: true
   title: Vorstellung
-  details: |
+  details: >
     Hallo,
+
     mein Name ist Michael Höflmaier.
+
     Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
@@ -62,30 +64,25 @@ education:
     - university: FH Salzburg, Campus Urstein
       time: 2018 - 2020
       major: Informationstechnik und System-Management (Master)
-      degree:
+      degree: null
       details: |
         Studienschwerpunkte:
         + Computer Networks & IT Security
         + Signal Processing
-        
-      
     - university: FH Kärnten, Campus Klagenfurt
       time: 2015 - 2018
       major: Netzwerk- und Kommunikationstechnik (Bachelor)
       degree: B.Sc.
-      details: |
+      details: |+
         Studienschwerpunkte:
         + Mobile Systeme
         + Digitale Signalverarbeitung
          
-    
     - university: HLWM Salzburg – Annahof, Salzburg
       time: 2009 - 2014
       major: Medieninformatik, Kommunikation & Präsentation, Ausbildung Koch/Kellner
       degree: Matura
-      details: |
-       
-        
+      details: ""
 experiences:
   display: true
   title: Berufserfahrung
@@ -102,7 +99,6 @@ experiences:
         + WLAN (Aruba)
         + Netzwerkautomatisierung
         + ...
-  
     - role: Praktikant
       time: 02.2018 - 05.2018
       company: Kapsch BusinessCom AG
@@ -113,13 +109,12 @@ experiences:
         + YANG
         + NETCONF
         + Webapps
-        
     - role: Zivildiener
       time: 09.2014 - 05.2015
       company: Arbeiter-Samariterbund
       tag: Vollzeit
       location: Salzburg
-      details: |
+      details: |+
         Tätigkeiten:
         + Rettungssanitäter
         + Fahrdienst
@@ -127,70 +122,65 @@ experiences:
         + Hilfsdienste bei der Behindertenbetreuung
         + Ausgangsbasis für weiteres ehrenamtliches Engagement
          
-        
     - role: Praktikant
       time: 06.2012 - 08.2012
       company: Romantik Hotel Gmachl Elixhausen GmbH & CoKG
       tag: Vollzeit
       location: Elixhausen
-      details: |
-       Mitarbeit im Service des Betriebs
-         
-
+      details: |+
+        Mitarbeit im Service des Betriebs
+          
 projects:
   display: true
   title: Weiterbildung & Projekte
-  intro: |
-    
-
+  intro: ""
   items:
     - name: Masterthesis - Programmierbarkeit der Data-Plane mittels P4
-      link:
-      details: |
+      link: null
+      details: >
         Details:
            In der Arbeit wurde das BMv2 mit dem V1-Modell genutzt, um die Funktionalität der LonTalk-Schichten 2 und 3 zu implementieren. Außerdem wurde eine eigenen Ausführungsumgebung und ein schlichter P4Runtime-Controller erstellt.
-    
+
         [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/blob/master/Arbeiten/Master_Hoeflmaier_Michael.pdf)
-    
-    - name: R&D Project - Network monitoring in a remote control system for semi-autonomous driving
-      link:
-      details: |
+    - name: R&D Project - Network monitoring in a remote control system for
+        semi-autonomous driving
+      link: null
+      details: >
         Forschungspartner: Salzburg Research
-        
+
+
         Details:
            Bau und Programmierung eines semi-autonomen Fahrzeugs, das auch durch einen entfernt situierten Operator steuerbar ist. Zu Überwachungszwecken erfolgt eine drahtlose Übertragung mehrere Audio- und Videokanäle an den Operator. Dieser kann eine Auswertung mehrerer Metriken des genutzten Übertragungskanals zurückgreifen.
-     
-    - name: Bachelorthesis 2 - Cisco Digital Network Architecture und deren Programmierschnittstellen
-      link:
-      details: |
+    - name: Bachelorthesis 2 - Cisco Digital Network Architecture und deren
+        Programmierschnittstellen
+      link: null
+      details: >
         Forschungspartner: Kapsch BusinessCom AG
-        
+
+
         Details:
            DynamicConfigurationWizard: Webinterface, das die Struktur von YANG-Dateien ausnutzt, um das Zielgerät über eine API zu konfigurieren.
            MacCurator: Webinterface, das es ermöglicht MAC-Adressen über eine API an eine Cisco ISE zu übergeben und aus dieser zu entfernen. Ermöglicht die Authentifizierung von Geräten die IEEE 802.1X nicht unterstützen.
 
         [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/raw/master/Arbeiten/Bac2_Hoeflmaier_Michael.pdf)
-    
-    - name: Bachelorthesis 1 - Java-TemplateGenerator und Jaspersoft aus einer XML-Perspektive
-      link:
-      details: |        
+    - name: Bachelorthesis 1 - Java-TemplateGenerator und Jaspersoft aus einer
+        XML-Perspektive
+      link: null
+      details: >
         Details:
            Ein in Java geschriebenes Programm, um XML-Templates für das Reporting-Tool Jaspersoft zu erstellen.
-        
-        [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/raw/master/Arbeiten/Bac1_Hoeflmaier_Michael.pdf)
-        
-    - name: Weiterbildung zum Rettungssanitäter
-      link:
-      details: | 
-        Während meines Zivildienstes legte ich die Prüfung zum Rettungssanitäter ab.
-        
 
+        [Download der Thesis](https://github.com/MichaelHoeflmaier/MichaelHoeflmaier.github.io/raw/master/Arbeiten/Bac1_Hoeflmaier_Michael.pdf)
+    - name: Weiterbildung zum Rettungssanitäter
+      link: null
+      details: >
+        Während meines Zivildienstes legte ich die Prüfung zum
+        Rettungssanitäter ab.
 publications:
   display: false
   title: Publications
   intro: |
     This is all the books I wrote.
-
   items:
     - title: Foo in Action
       authors: Foo Bar
@@ -199,50 +189,46 @@ publications:
     - title: The Art of Bar
       authors: Foo Bar
       conference: Foobar, 2019
-      link:
-
+      link: null
 skills:
   display: true
   title: Kenntnisse
   details: |
-  Führerschein:
+    Führerschein:
     + B
-    
+
     Fremdsprachkenntnisse:
     + Englisch - Sehr gut
     + Französisch - Grundkenntnisse
-    
+
     Programmiersprachen:
     + C++, Java, Python, P4 - Gut
-    
+
     EDV-Programme:
     + MS Office - Gut
     + Adobe Creative Cloud - Grundkenntnisse
     + LaTex-Softwarepaket - Gut
     + MATLAB - Sehr gut
     + LabVIEW - Grundkenntnisse
-    
+
     Auszeichnungssprachen:
     + HTML - Gut
-    
+
     Skriptsprachen:
     + JavaScript, PHP - Gut
-    
+
     Datenbanksysteme:
     + SQL - Gut
     + NoSQL - Grundkenntnisse
-    
+
     macmon:
     + macmon NAC Appliance
-    
+
     Aruba-Systeme:
     + Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.)
 
     Cisco-Systeme:
     + IOS - Gut
-	
-
-
 evaluation:
   display: false
   title: Self-evaluation
@@ -252,9 +238,7 @@ evaluation:
     + Second
 
     ...
-
 footer:
   display: true
-
-close: >
+close: |
   Sorry, my resume has been hidden.
