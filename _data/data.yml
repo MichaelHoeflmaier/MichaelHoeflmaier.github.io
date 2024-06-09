@@ -92,7 +92,7 @@ experiences:
   items:
   - role: System Engineer
       time: 12.2021 - ongoing
-      company: K-BusinessCom
+      company: CANCOM Austria vormls K-BusinessComvormals Kapsch BusinessCom
       tag: Vollzeit
       location: Salzburg
       details: |
@@ -235,6 +235,12 @@ skills:
 
     Cisco-Systeme:
     + IOS - Gut
+	
+	Aruba-Ökosystem:
+	+ Full Stack (Switchung, Wireless, Clearpass, MGMT-Systeme, etc.)
+	
+	macmon:
+	+ macmon NAC Appliance
 
 evaluation:
   display: false
