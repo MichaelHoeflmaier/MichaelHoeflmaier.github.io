@@ -49,7 +49,7 @@ interests:
     - item: Nähen
       link:
 profile:
-  display: false
+  display: true
   title: Vorstellung
   details: |
     Hallo,
