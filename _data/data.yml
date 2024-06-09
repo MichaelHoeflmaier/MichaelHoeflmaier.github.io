@@ -54,7 +54,7 @@ profile:
   details: |
     Hallo,
     mein Name ist Michael Höflmaier.
-    Ich bin ein Master-Student an der Fachhochschule Salzburg und werde mein Studium im Herbst 2020 abschließen. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
+    Ich bin ein System Engineer bei CANCOM Austria mit Herz für Netzwerke und meine Kunden. Weiter unten finden Sie meinen Lebenslauf und Wissenswertes zu meiner Person.
 education:
   display: true
   title: Ausbildung
@@ -91,8 +91,8 @@ experiences:
   title: Berufserfahrung
   items:
   - role: System Engineer
-      time: 12.2021 - ongoing
-      company: CANCOM Austria vormls K-BusinessComvormals Kapsch BusinessCom
+      time: 12.2020 - ongoing
+      company: CANCOM Austria vormls K-BusinessCom vormals Kapsch BusinessCom
       tag: Vollzeit
       location: Salzburg
       details: |
